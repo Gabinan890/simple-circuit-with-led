@@ -5,7 +5,7 @@
 ![Simple circuit with led](screenshot.webp)
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.2 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.4 hours of work.
 
 
 
@@ -61,7 +61,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 1.2h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 1.4h of work*
 
 
 
